@@ -1,7 +1,7 @@
 # Week 1
 
 ## Organisatie
-### Wat is een organiastie?
+### Wat is een organisatie?
 > Een herkenbare eenheid waarin mensen op **gecoördineerde wijze** & met behulp van **technische** & **financiële middelen** activiteiten uitvoeren om **gemeenschappelijke doelen** te realiseren
 
 Belangerijkste kenmerken
@@ -52,14 +52,14 @@ etc..
 
 
 ### Mensen: de organisatie als sociaal systeem
-In een organiastie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
+In een organisatie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
 Organisatiestructuren kunnen we opdelen in de volgende structuren
 * Lijn-staf-organisatie
-* Projectorganiastie / matrixorganiastie
-* Functionele organiastie
-* Marktorganiastie
-* Productorganiastie
-* Geografischeorganiastie
+* Projectorganiastie / matrixorganisatie
+* Functionele organisatie
+* Marktorganisatie
+* Productorganisatie
+* Geografischeorganisatie
 
 Ook kan je de organisatie indelen op wat je focus is volgens de volgende focuspunten:
 * Functioneel gericht 
@@ -74,7 +74,7 @@ Ook kan je de organisatie indelen op wat je focus is volgens de volgende focuspu
 
 ### Lijn-staforganisatie
 ![niet beschikbaar][lijnstaforganisatie]
-Een lijn organiastie is een organisatievorm waarbij de werknemer (ondergeschikte) direct of indirect in verband staat met de leidinggevende en die weer met zijn of haar bovengeschikte (directie etc)
+Een lijn organisatie is een organisatievorm waarbij de werknemer (ondergeschikte) direct of indirect in verband staat met de leidinggevende en die weer met zijn of haar bovengeschikte (directie etc)
 Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies bevoegheden heeft onstaat er een lijn-staf organisatie.
 *Kenmerkend* is dat deze afdeling vaak specialisten heeft, maar welke alleen advies mogelijkheden hebben en anderen niet opleggen. [1]
 
