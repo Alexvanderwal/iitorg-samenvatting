@@ -93,12 +93,28 @@ Kenmerken:
 * 2 bazen, de projectleider & hun organiastie leider
 * De projectleider is verantwoordelijk en heeft operationele bevoegdheden
 * 1 of meer functionele chefs
-* Functionele chef bepaald hoe iemand iets moet doen  
+* Functionele chef bepaald hoe iemand iets moet doen  G
 [2]
 
 [projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img//lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 
+### Macht
+Kenmerkend is dat de gene die macht heeft degene is die:
+* Hierarchische macht heeft
+* Kennis & toegang tot informatie heeft
+* Beslist over verdeling van middelen (geld, gereedschap, etc.)
+* populariteit, aanzien, respect, steun van veel andere
+* Fysieke macht heeft
 
+### Politiek
+In een organisatie is politiek ook erg belangerijk. Sommige mensen die meer **macht** in de organisatie willen hebben gebruiken o.a. `machtsspelletjes, koninkrijkjes, tegenwerking bij verandering` voor hun eigen belangen (meer macht)
+
+### Redenen van hierarchie en coordinatie
+* Directe supervisie
+* Onderlinge afstemming
+* Standaardiseren van; werkprocessen, prestaties & resultaten, vaardigheden & kennis, normen en waarden
+* Regels en procedures
+* Planning en controle van planning
 
 
 
