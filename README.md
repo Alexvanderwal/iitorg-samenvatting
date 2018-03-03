@@ -19,7 +19,7 @@ Deze samenvatting is gebasseerd op al het materiaal van de derde periode 2018. D
 **Remco houdt nogal van zijn cassusen!**
 
 ## Opdeling van de weken
-1. [organisatie, omgeving, leiderschap, cultuur](../master/weken/week1)
+1. [organisatie, omgeving, leiderschap, cultuur](https://github.com/Cascuna/iitorg-samenvatting/tree/master/weken/week1)
 2. value chain, Mintzberg, contingentie, levenscyclus
 3. Greiner: ontwikkeling van organisaties
 4. rechtsvormen, PMC, BCG, PLC, Leeflang, Copeland
