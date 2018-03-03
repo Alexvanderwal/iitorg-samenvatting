@@ -54,7 +54,7 @@ etc..
 ### Mensen: de organisatie als sociaal systeem
 In een organisatie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
 Organisatiestructuren kunnen we opdelen in de volgende structuren
-* Lijn-staf-organisatie
+* [Lijn-staf-organisatie](#lijn-staforganisatie)
 * [Projectorganiastie](#projectorganisatie) / matrixorganisatie
 * Functionele organisatie
 * Marktorganisatie
@@ -82,8 +82,8 @@ Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies b
 
 
 ### Projectorganisatie
-[projectorganisatie]: 
-https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
+![niet beschikbaar][projectorganisatie]
+[projectorganisatie]: https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 In een grotere organisatie kan het zo zijn dat er specialisten van verschillende terreinen bij elkaar in een groep komen voor **ingewikkeldere** projecten. Dit noemen we een projectgroep. 
 
 Kenmerken:
