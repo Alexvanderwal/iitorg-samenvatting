@@ -55,7 +55,7 @@ etc..
 In een organisatie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
 Organisatiestructuren kunnen we opdelen in de volgende structuren
 * Lijn-staf-organisatie
-* Projectorganiastie / matrixorganisatie
+* [Projectorganiastie](#Projectorganisatie) / matrixorganisatie
 * Functionele organisatie
 * Marktorganisatie
 * Productorganisatie
@@ -81,7 +81,18 @@ Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies b
 [lijnstaforganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 
 
+### Projectorganisatie
+[projectorganisatie]: 
+https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
+In een grotere organisatie kan het zo zijn dat er specialisten van verschillende terreinen bij elkaar in een groep komen voor **ingewikkeldere** projecten. Dit noemen we een projectgroep. 
 
+Kenmerken:
+* Aan het hoofd staat er een projectleider
+* De leden hebben elk een specifieke taak
+* 2 bazen, de projectleider & hun organiastie leider
+* De projectleider is verantwoordelijk en heeft operationele bevoegdheden
+* 1 of meer functionele chefs
+* Functionele chef bepaald hoe iemand iets moet doen
 
 
 
