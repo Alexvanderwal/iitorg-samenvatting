@@ -83,8 +83,9 @@ Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies b
 
 ### Projectorganisatie
 ![niet beschikbaar][projectorganisatie]
-[projectorganisatie]: https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 In een grotere organisatie kan het zo zijn dat er specialisten van verschillende terreinen bij elkaar in een groep komen voor **ingewikkeldere** projecten. Dit noemen we een projectgroep. 
+
+
 
 Kenmerken:
 * Aan het hoofd staat er een projectleider
@@ -94,6 +95,8 @@ Kenmerken:
 * 1 of meer functionele chefs
 * Functionele chef bepaald hoe iemand iets moet doen
 
+
+[projectorganisatie]: https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 
 
 
