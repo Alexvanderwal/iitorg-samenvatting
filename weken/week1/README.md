@@ -96,7 +96,7 @@ Kenmerken:
 * Functionele chef bepaald hoe iemand iets moet doen  G
 [2]
 
-[projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img//lijn-staforganisatie.jpg "Een lijn-staf organiastie"
+[projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Projectorganistatie.png "Een lijn-staf organiastie"
 
 ### Macht
 Kenmerkend is dat de gene die macht heeft degene is die:
@@ -115,6 +115,21 @@ In een organisatie is politiek ook erg belangerijk. Sommige mensen die meer **ma
 * Standaardiseren van; werkprocessen, prestaties & resultaten, vaardigheden & kennis, normen en waarden
 * Regels en procedures
 * Planning en controle van planning
+
+### Cirkel van succes
+![Plaatje kan niet worden geladen][cirkelvansucces]
+De cirkel van succes in een organisatie is als volgt. Als er **1. voortdurende koopprikkels** zijn, is er meer **2.kennis-‘honger’ bij medewerkers** en dat zorgt voor **3. medewerkers met kennis van zaken.** Door deze kennis is er een **4. versterkte klantbinding** en een **5. stabiele, groeiende klantenkring**. Dit zorgt ervoor dat er **5. winnaarssentimenten bij medewerkers** ontstaat en dat de **6. acquisitie vrijwel ‘vanzelf’ gaat**. Door al dat succes **7. hebben medewerkers graag contact met de klanten.** 
+ 
+
+[cirkelvansucces]: https://cascuna.github.io/iitorg-samenvatting/static/img/cirkelvansucces.png "De cirkel van succes"
+
+
+### Cirkel van falen
+![Plaatje kan niet worden geladen][cirkelvanfalen]
+De cirkel van falen in een organisatie is als volgt. Als er **1. niet of nauwelijks enige koopprikkel** is, dan is er **2. onophoudelijke reorganisatie nodig** dit zorgt voor **3. personeelsverloop & kennisverlies**. Indirect zorgt dit voor **4. verminderende binding met klanten** en **5. verloop onder klanten**. Door het verloop onder klanten ontstaat er **6. verliezerssentimenten bij medewerkers** en is **7. voortdurende acquisitie vereist**. Dit zorgt uiteindelijk voor een **8. inadequate reactie op vragen van zwaar belaste medewerkers.**  
+
+
+[cirkelvanfalen]: https://cascuna.github.io/iitorg-samenvatting/static/img/cirkelvanfalen.png "De cirkel van falen"
 
 
 
