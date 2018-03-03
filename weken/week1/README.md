@@ -14,7 +14,7 @@ Belangerijkste kenmerken
 ### Missie  
 > Een Missie is een beschrijving van product-marktcombinatie(**PMC**) en de manier waarop men hiermee een structureel concurrentievoordeel(**CV**) kan realiseren  
 
-Hieruit kan afleiden dat ` Missie = PMC + CV `
+Hieruit kan afleiden dat `Missie = PMC + CV`
 * Een missie behoort tot alle soorten organisaties, zowel profit als non-profit  
 * Een missie beschrijft een of meer maatschappelijke behoeften waar de organisatie in voorziet
 
@@ -34,7 +34,7 @@ Het doel van een missie is het bevorderen van de choesie en coherentie van de or
 > Rode Kruis - onze missie is het voorkomen en verzachten van menselijk lijden waar dan ook, het beschermen van levens en gezondheid en het waarborgen van respect voor de mens. Daartoe mobiliseren we de kracht van menslievendheid en solidariteit: we creëren een ruimte waarin mensen in nood, vrijwillige hulpverleners en donoren samenkomen en invulling geven aan ons aller verantwoordelijkheid om anderen te helpen. 
 
 ### Visie
-` visie = Missie + principes`  
+`visie = Missie + principes`  
 Principes hebben betrekking op de normen en waarden van de organisatie. Bijvoorbeeld
 
 * Kwaliteit komt eerst;
