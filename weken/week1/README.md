@@ -93,10 +93,10 @@ Kenmerken:
 * 2 bazen, de projectleider & hun organiastie leider
 * De projectleider is verantwoordelijk en heeft operationele bevoegdheden
 * 1 of meer functionele chefs
-* Functionele chef bepaald hoe iemand iets moet doen
+* Functionele chef bepaald hoe iemand iets moet doen  
+[2]
 
-
-[projectorganisatie]: https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
+[projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img//lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 
 
 
@@ -104,5 +104,5 @@ Kenmerken:
 
 ## Bronnen
 1 http://www.economiehulp.nl/lijn-staforganisatie
-
+2 https://zakelijk.infonu.nl/management/85974-projectorganisatie-matrixorganisatie-en-ententestructuur.html
 
