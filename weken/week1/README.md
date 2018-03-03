@@ -55,7 +55,7 @@ etc..
 In een organisatie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
 Organisatiestructuren kunnen we opdelen in de volgende structuren
 * Lijn-staf-organisatie
-* [Projectorganiastie](#Projectorganisatie) / matrixorganisatie
+* [Projectorganiastie](#projectorganisatie) / matrixorganisatie
 * Functionele organisatie
 * Marktorganisatie
 * Productorganisatie
