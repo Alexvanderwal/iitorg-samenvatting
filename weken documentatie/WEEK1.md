@@ -44,7 +44,10 @@ Principes hebben betrekking op de normen en waarden van de organisatie. Bijvoorb
 etc..
 
 ## Omgeving
-TODO omgeving van een organiastie.png
 
 ### De omgeving van een organisatie
+![Niet beschikbaar][omgeving_van_organisatie]
 
+
+
+[omgeving_van_organisatie] = https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organiastie"
