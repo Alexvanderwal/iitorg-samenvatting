@@ -98,6 +98,7 @@ Kenmerken:
 
 [projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Projectorganistatie.png "Een lijn-staf organiastie"
 
+## Leiderschap
 ### Macht
 Kenmerkend is dat de gene die macht heeft degene is die:
 * Hierarchische macht heeft
@@ -132,8 +133,28 @@ De cirkel van falen in een organisatie is als volgt. Als er **1. niet of nauweli
 [cirkelvanfalen]: https://cascuna.github.io/iitorg-samenvatting/static/img/cirkelvanfalen.png "De cirkel van falen"
 
 
+### Leiderschapsstijlen van Quinn
+![Plaatje kan niet worden geladen][leiderrollenquinn]
+* **Producent** - productief werken staat centraal. De manager moet een productieve werkomgeving bevorderen en tijd en stress weten te managen.
+* **Bestuurder** - Plannen en doelen formuleren kenmerken deze stijl. De manager heeft een visie, ontwerpt en organiseert en weet effectie te delegeren.    
+> Deze twee zijn afgeleid uit een managementstroming die "rationeel doel" model wordt genoemd. Volgens dit model zijn productiviteit en winst de belangerijkste aspecten om een organisatie goed te laten functioneren. 
+* **Controleur** - Centraal staat het bewaken van individuele prestaties evenals het controleren van het functioneren van de gehele organisatie.
+* **Coordinator** - Deze stijl legt de nadruk op projectmanagement, het ontwerpen van taken en crossfunctioneel management. 
+> Deze twee zijn gebaseerd op het zogenaamde 'intern-proces' model. Het gaat hier meer om stabiliteit en continuiteit. Alles moet volgens de regels gaan, alles wordt geregistreerd. De manager heeft vooral een controlerende en coordinerende funcite.
+* **Mentor** - Besteedt veel aandacht aan de ontwikkeling van mensen, is zorgzaam en bereid om te helpen.
+* **Stimulator** - Richt zich voornamenlijk op het verbeteren van de samenwerking. Verbetert samenhang en teamwork; lost conflicten op. 
+> Deze rollen zijn gekoppeld aan het 'human relations' model. Dit model gaat ervan uit dat betrokkenheid van mensen leidt tot een verbeterde inzet.
+* **Innovator** - Accent ligt op vernieuwingen en aanpassingen van de organisatie. 
+* **Bemiddelaar** - Accent op externe relaties en effectief onderhandelen. Reputatie en imago zijn belangerijk. 
+> Deze rollen zijn afgeleid van het 'open-systeem'-model. De ligt hier voornamenlijk op aanpassings- en reactievermogen van de organisatie als overlevingsstrategie in concurrentie met andere organisaties.
+
+
+>De boodschap van Quinn is dat een effectieve leidinggevende juist meer dan één rol kan vervullen, en zelfs tegenstrijdige stijlen kan integreren. [4] 
+
+[leiderrollenquinn]: https://cascuna.github.io/iitorg-samenvatting/static/img/leiderschapsquinn2.jpg
 
 ## Bronnen
-1 http://www.economiehulp.nl/lijn-staforganisatie
-2 https://zakelijk.infonu.nl/management/85974-projectorganisatie-matrixorganisatie-en-ententestructuur.html
-
+1 http://www.economiehulp.nl/lijn-staforganisatie  
+2 https://zakelijk.infonu.nl/management/85974-projectorganisatie-matrixorganisatie-en-ententestructuur.html  
+3 https://managementmodellensite.nl/managementrollen-quinn/#.Wpr_gOjOWHs   
+4 http://123management.nl/0/030_cultuur/a300_cultuur_10_leiderschapsstijlen.html
