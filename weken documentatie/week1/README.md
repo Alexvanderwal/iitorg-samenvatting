@@ -46,9 +46,9 @@ etc..
 ## Omgeving
 
 ### De omgeving van een organisatie
-![Niet beschikbaar][omgeving_van_organisatie]
+![niet beschikbaar][omgeving_van_organisatie]
 
-[omgeving_van_organisatie] = https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organiastie"
+[omgeving_van_organisatie]: https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organiastie"
 
 
 ### Mensen: de organisatie als sociaal systeem
@@ -73,11 +73,12 @@ Ook kan je de organisatie indelen op wat je focus is volgens de volgende focuspu
 * Mengvormen
 
 ### Lijn-staforganisatie
+![niet beschikbaar][lijnstaforganisatie]
 Een lijn organiastie is een organisatievorm waarbij de werknemer (ondergeschikte) direct of indirect in verband staat met de leidinggevende en die weer met zijn of haar bovengeschikte (directie etc)
 Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies bevoegheden heeft onstaat er een lijn-staf organisatie.
 *Kenmerkend* is dat deze afdeling vaak specialisten heeft, maar welke alleen advies mogelijkheden hebben en anderen niet opleggen. [1]
 
-
+[lijnstaforganisatie]: https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
 
 
 
