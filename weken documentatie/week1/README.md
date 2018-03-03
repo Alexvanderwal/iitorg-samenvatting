@@ -48,6 +48,46 @@ etc..
 ### De omgeving van een organisatie
 ![Niet beschikbaar][omgeving_van_organisatie]
 
-
-
 [omgeving_van_organisatie] = https://github.com/Cascuna/iitorg-samenvatting/blob/master/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organiastie"
+
+
+### Mensen: de organisatie als sociaal systeem
+In een organiastie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
+Organisatiestructuren kunnen we opdelen in de volgende structuren
+* Lijn-staf-organisatie
+* Projectorganiastie / matrixorganiastie
+* Functionele organiastie
+* Marktorganiastie
+* Productorganiastie
+* Geografischeorganiastie
+
+Ook kan je de organisatie indelen op wat je focus is volgens de volgende focuspunten:
+* Functioneel gericht 
+> bijv.: JAVA-ontwikkelaars, PHP-programmeurs, testers,ontwerpers, verkopers
+* Product gericht
+> bijv.: laptops, servers, werkstations, opslagmedia, printers
+* Geografisch gericht
+> bijv.: Amerika, Azië, Europa
+* Marktgericht
+> bijv.: Particulieren, MKB, ZZPers, Multinationals
+* Mengvormen
+
+### Lijn-staforganisatie
+Een lijn organiastie is een organisatievorm waarbij de werknemer (ondergeschikte) direct of indirect in verband staat met de leidinggevende en die weer met zijn of haar bovengeschikte (directie etc)
+Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies bevoegheden heeft onstaat er een lijn-staf organisatie.
+*Kenmerkend* is dat deze afdeling vaak specialisten heeft, maar welke alleen advies mogelijkheden hebben en anderen niet opleggen. [1]
+
+
+
+
+
+
+
+
+
+
+
+## Bronnen
+1 http://www.economiehulp.nl/lijn-staforganisatie
+
+
