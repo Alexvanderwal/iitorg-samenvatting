@@ -153,8 +153,43 @@ De cirkel van falen in een organisatie is als volgt. Als er **1. niet of nauweli
 
 [leiderrollenquinn]: https://cascuna.github.io/iitorg-samenvatting/static/img/leiderschapsquinn2.jpg
 
+### Situationeel leiderschap (Hersey & Blanchard)
+
+![Doet het niet][hersey1]
+De term situationeel leiderschap houdt in dat de leider in elke situatie zijn leiderschapsstijl aanpast aan de benodigde stijl van leidinggeven.  
+Om dit te kunnen realiseren is het een vereiste dat de leider in staat is zijn/haar gedrag en dat van de medewerkers kan begrijpen in relatie met de situatie.
+
+In dit model zijn er twee dimensies, ondersteunend gedrag & sturend gedrag.
+* Directieve stijl
+* Begeleidende stijl
+Valen onder het sturende gedrag. De medewerker legt concreet uit hoe en wat moet worden gedaan en controleert dit nauwlettend.
+* Ondersteunende stijl
+* Delegerende stijl
+Bij deze stijlen wordt er uit gegaan van *vakvolwassenheid*, de leider stuurt slechts resultaat gericht en faciliteert wat er nodig is het doel te bereiken. [6]
+
+![Doet het niet][hersey2]
+Als we dit model bekijken kunnen we zien dat de verschillende stijlen meestal eenopvolgend zijn. Deze natuurlijke overgang van stijlen heeft ook te maken met het niveau van de werknemers.
+
+Zo is het bijvoorbeeld nodig om werknemers met lagere competenties meer te sturen etc.
+![Doet het niet][hersey3]
+* O1. **De enthousiaste beginner** - De medewerker is bereid om de taak uit te voeren, hij/zij is wel gemotiveerd, maar mist de vereiste bekwaamheid (een nieuwe medewerker met nieuwe taken).
+* O2. **De ontgoochelde leerling** - De medewerker heeft nu enige bekwaamheid opgebouwd, maar is weinig gemotiveerd en/of enigszins onzeker de taak uit te voeren (een nieuwe medewerker die na een voortvarende start de eerste negatieve ervaringen opdoet bij een zelfstandige taakuitvoering, er komt meer op hem af dan verwacht).
+* O3. **De capabele maar voorzichtige presteerder** -  De medewerker beschikt nu over voldoende kennis en kunde (bekwaamheid), maar aarzelt soms bij onverwachte problemen in de taakuitvoering of bij gebrek aan klankbord van zijn leidinggevende; dat wil zeggen er schort zo nu en dan iets aan de bereidheid.
+* O4. **De zelfsturende professional** - - De medewerker is bekwaam en bereid de betrokken taak uit te voeren. 
+
+[hersey1]:
+https://cascuna.github.io/iitorg-samenvatting/static/img/hersey1.jpg
+
+[hersey2]:
+https://cascuna.github.io/iitorg-samenvatting/static/img/hersey2.jpg
+
+[hersey3]:
+https://cascuna.github.io/iitorg-samenvatting/static/img/hersey3.jpg
+
 ## Bronnen
 1 http://www.economiehulp.nl/lijn-staforganisatie  
 2 https://zakelijk.infonu.nl/management/85974-projectorganisatie-matrixorganisatie-en-ententestructuur.html  
 3 https://managementmodellensite.nl/managementrollen-quinn/#.Wpr_gOjOWHs   
-4 http://123management.nl/0/030_cultuur/a300_cultuur_10_leiderschapsstijlen.html
+4 http://123management.nl/0/030_cultuur/a300_cultuur_10_leiderschapsstijlen.html  
+5 http://4managers.nl/0/030_cultuur/a300_cultuur_11_situationeel_leiderschap.html  
+6 http://managementplatform.nl/situationeel-leiderschap-hersey-blanchard/29/03/2014
