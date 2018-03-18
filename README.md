@@ -28,3 +28,13 @@ Deze samenvatting is gebasseerd op al het materiaal van de derde periode 2018. D
 7. personeel, Maslow, Herzberg, marketingmix/PLC
 
 **Gebruik geen kretologie!**
+
+Schema **Tentamen 11 april**
+18 maart; schema opstellen & verder met hoofstuk 2  
+19 t/m 25 maart 1 uur per dag aan iitorg zitten hf 2 & hf3
+26 t/m 1 april hf 4, 5 & 6 ( in het weekend hard werken)  
+1 t/m 7 april hf 7 & alles nogmaals goed doornemen
+
+
+
+
