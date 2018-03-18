@@ -1,7 +1,7 @@
 # Week 2
 
 ## Value Chain (Porter)
-
+![porter][porter]
 Instrument voor het vinden van manieren om meer klantenwaarde te creeren. Identificeert concurrentievoordelen & kanttekeningen.  
 Het model splitst een bedrijf op in negen waarde activiteiten:
 
@@ -25,11 +25,11 @@ https://www.expand.nl/nl/1102/hr-blog/mintzberg-organisatiestructuren---modellen
 Basismodel van mintzberg:
 ![mintzberg][mintzberg]
 Dit model heeft 6 componenten
-1. Strategische top: bepaalt beleid
-2. Middenkader: stuurt operationele kern aan
-3. Operationele kern: verzorgt productie
-4. Technostructuur: bepaalt standaarden, richtlijnen, processen
-5. Staf: ondersteunt, bv catering, juridische zaken
+1. Strategische top: bepaalt beleid; belang: Centraliseren
+2. Middenkader: stuurt operationele kern aan; belang: Balkaniseren
+3. Operationele kern: verzorgt productie; belang: professionaliseren
+4. Technostructuur: bepaalt standaarden, richtlijnen, processen; belang: standaardiseren
+5. Staf: ondersteunt, bv catering, juridische zaken; belang: collabreren 
 6. Ideologie:
 
 Er zijn zeven configuraties van Mintzberg
@@ -44,7 +44,7 @@ Er zijn zeven configuraties van Mintzberg
 [mintzberg]: https://cascuna.github.io/iitorg-samenvatting/static/img/mintzbergbasis.jpg
 
 ### Ondernemersorganistie 
-[ondernemerorganiastie][ondernemer]
+![ondernemerorganiastie][ondernemer]
 #### structuur
 * Meeste macht bij strategische top
 * Weinig regels & procedures
@@ -54,15 +54,121 @@ Er zijn zeven configuraties van Mintzberg
 
 #### Informatiebehoefte
 * Informele communicatie
-* Informatie loopt vooral van en naar de top
+* Informatie loopt vooral van en naar de top  
 Gevolgen voor de IT
 * Gebruik standaardpakketten
   * Weinig onderhoud
   * Weinig ondersteuning
   * Relatief goekoop
 
-### Machineorganiastie
 
-[ondernemer]: https://cascuna.github.io/iitorg-samenvatting/static/img/ondernemersorganisatie.jpg
+[ondernemer]: https://cascuna.github.io/iitorg-samenvatting/static/img/ondernemersorganisatie.png
 
-### 
+### Machineorganisatie
+![machineorganiastie][machineorganisatie]
+#### Structuur
+* Routinematig, goed te standaardiseren werk in operationele kern
+* Sterke hierarchie en technostructuur
+* Veel regels & procedures
+* Stabiele omgeving
+* Piramide cultuur
+
+[machineorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/machineorganisatie.png
+#### Informatiebehoefte
+* Informatie vastgelegd in regels en procedures
+* Ook procedures voor bouwen en bheren software
+* Nadruk op beheersing processen
+* Sturingsinformatie gaat op en neer in de hierachie: filtering  
+Gevolgen voor de IT:
+* Rapportagesystemen
+* Eilanden van automatsering
+* Medewerkers hebben vaak een desktop
+
+
+### Proffesionele organisatie
+![proffesioneleorganisatie][proffesioneleorganisatie]
+#### Structuur
+* Hoogopgeleid, specialistisch werk
+* Belangerijke rol zelfstandige professionals
+* Grote ondersteunende staf
+* Technostructuur is beperkt, de regels komen vaak van buitenaf:
+  * wetgeving
+  * branche organiastie
+* Geoliede machine cultuur
+
+#### Informatiebehoefte
+* Voorzien in informatiebehoefte proffesionals: kennissystemen
+* Informatiesysteem moet geen keurslijf zijn
+Gevolgen voor de IT
+* Ict wordt met name ingezet bij ondersteunende afdelingen
+* Proffesionals hebben vaak een laptop
+
+[proffesioneleorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/proffesioneleorganisatie.png
+
+### Innovatieve organiastie - structuur
+![innovatieveorganisatie][innovatieveorganisatie]
+"Adhocratie" 
+#### Structuur
+* Jong en flexibel
+* Projectmatig werken (adhoc)
+* Weinigstandaarisatie en procedures
+* Onduidelijke taakverdeling, veel afstemming nodig
+* Veel onzekerheid en politiek
+* Lijkt op een dorpsmarkt
+
+#### Informatiebehoefte
+* Informatiebehoefte slecht te voorzien en eenmalig
+* Adhoc inzet ICT: geen focus op beheer en onderhoud  
+Gevolgen voor de IT:
+* Medewerkers hebben laptops met freeware
+* Projectbeheersing
+  * Projectrapportages
+  * Urenverantwoording
+
+[innovatieveorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/innovatieveorganisatie.png
+
+### Gedivisionaliseerde organisatie 
+![gedivisionaliseerdeorganisatie][gedivisionaliseerdeorganisatie]
+#### Structuur
+* Binnen bedrijf onderverdeling naar producten of markten
+* Belangrijke rol middenkader: aansturing van de divisies
+
+#### Informatiebehoefte
+* Informatie op niveau van de gehele organisatie
+* Informatie voor en over de afzonderlijke divisies
+* Vaste definities voor rapportages
+*Gevolgen voor de IT*:
+* Vaak gekozen voor outsourcing
+
+[gedivisionaliseerdeorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/innovatieveorganisatie.png
+
+### Kenmerken
+
+![mintzberg][mintzbergkenmerken]
+
+[mintzbergkenmerken]: https://cascuna.github.io/iitorg-samenvatting/static/img/mintzbergkenmerken.png
+
+### Levenscyclus van organisaties
+
+![levenscyclus][levenscyclus]
+
+[levenscyclus]: https://cascuna.github.io/iitorg-samenvatting/static/img/levenscyclusmintzberg.png
+
+### Ontwikkelingsfases volgens Greiner
+
+![ontwikkelingsfases][ontwikkelingsfases]
+
+[ontwikkelingsfases]: https://cascuna.github.io/iitorg-samenvatting/static/img/intwikkelingsfasesgreiner.png
+
+## Contingentietheorie
+Er is niet een beste organiastie-indeling. Deze is namenlijk afhankelijk van verschillende factoren. Voor informatievoorzieningen zijn de belangerijkste:  
+* Structuur
+* Cultuur
+* Belang van IT
+* De fase waarin het gebruik van IT zich in bevindt
+* De automatiseringserfenis
+
+>Het gedrag van de medewerkers uit zich op een bepaalde manier
+en dat wordt bijv. ervaren als stimulerend of juist demotiverend.
+Dit gedrag is het gevolg van wat er in de organisatie is gebeurd.
+Het staat dus niet op zichzelf.
