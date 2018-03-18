@@ -195,6 +195,20 @@ bijvoorbeeld:
 **Deltalloyd**  
 Integriteit • Klant centraal • Verantwoordelijkheid en betrokkenheid • Teamgeest • Open communicatie • Flexibiliteit • Ondernemersgeest
 
+### Culturele typologie (Hofstede)
+Hofstede heeft de volgende vijf dimensies bedacht:
+
+![hofstede][hofstede]
+
+[hofstede]:
+https://cascuna.github.io/iitorg-samenvatting/static/img/hofstede.jpg
+
+* Machtsafstand; ouder & kind, baas & werknemer .
+* Indivualisme vs. collectivisme; Geeft de maat aan waarin individuen geintregeerd zijn in groepen
+* Masculiniteit vs. feminiteit; Verdeling rollen tussen man en vrouw in de maatschappij
+* Onzekersheidsvermijding; laat de angst voor de toekomst binnen een cultuur zien; hoe hoger hoe meer belang er is aan onzekerheidsvermijding
+* Lange termijn vs korte termijn orientatie (nieuw); gericht op de toekomst of op het heden
+
 
 ## Bronnen
 1 http://www.economiehulp.nl/lijn-staforganisatie  
@@ -202,4 +216,5 @@ Integriteit • Klant centraal • Verantwoordelijkheid en betrokkenheid • Tea
 3 https://managementmodellensite.nl/managementrollen-quinn/#.Wpr_gOjOWHs   
 4 http://123management.nl/0/030_cultuur/a300_cultuur_10_leiderschapsstijlen.html  
 5 http://4managers.nl/0/030_cultuur/a300_cultuur_11_situationeel_leiderschap.html  
-6 http://managementplatform.nl/situationeel-leiderschap-hersey-blanchard/29/03/2014
+6 http://managementplatform.nl/situationeel-leiderschap-hersey-blanchard/29/03/2014  
+7 https://mens-en-samenleving.infonu.nl/sociaal-cultureel/56664-vijf-dimensies-van-hofstede.html
