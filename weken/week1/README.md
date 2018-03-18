@@ -177,6 +177,8 @@ Zo is het bijvoorbeeld nodig om werknemers met lagere competenties meer te sture
 * O3. **De capabele maar voorzichtige presteerder** -  De medewerker beschikt nu over voldoende kennis en kunde (bekwaamheid), maar aarzelt soms bij onverwachte problemen in de taakuitvoering of bij gebrek aan klankbord van zijn leidinggevende; dat wil zeggen er schort zo nu en dan iets aan de bereidheid.
 * O4. **De zelfsturende professional** - - De medewerker is bekwaam en bereid de betrokken taak uit te voeren. 
 
+
+
 [hersey1]:
 https://cascuna.github.io/iitorg-samenvatting/static/img/hersey1.jpg
 
@@ -185,6 +187,14 @@ https://cascuna.github.io/iitorg-samenvatting/static/img/hersey2.jpg
 
 [hersey3]:
 https://cascuna.github.io/iitorg-samenvatting/static/img/hersey3.jpg
+
+## Cultuur
+> Patroon van waarden, doeleiden, normen, verwachtingen die voor het functioneren van de (ambtelijke) organisatie van belang zijn.
+Kernwaardes, wat een bedrijf het meest belangerijk acht.  
+bijvoorbeeld:  
+**Deltalloyd**  
+Integriteit • Klant centraal • Verantwoordelijkheid en betrokkenheid • Teamgeest • Open communicatie • Flexibiliteit • Ondernemersgeest
+
 
 ## Bronnen
 1 http://www.economiehulp.nl/lijn-staforganisatie  
