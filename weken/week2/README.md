@@ -23,7 +23,7 @@ Het model splitst een bedrijf op in negen waarde activiteiten:
 ## Mintzberg 
 https://www.expand.nl/nl/1102/hr-blog/mintzberg-organisatiestructuren---modellen  
 Basismodel van mintzberg:
-![mintzberg][mintzberg]
+![mintzberg][mintzberg]  
 Dit model heeft 6 componenten
 1. Strategische top: bepaalt beleid; belang: Centraliseren
 2. Middenkader: stuurt operationele kern aan; belang: Balkaniseren
@@ -62,7 +62,7 @@ Gevolgen voor de IT
   * Relatief goekoop
 
 
-[ondernemer]: https://cascuna.github.io/iitorg-samenvatting/static/img/ondernemersorganisatie.png
+[ondernemer]: https://cascuna.github.io/iitorg-samenvatting/static/img/Ondernemersorganisatie.jpg
 
 ### Machineorganisatie
 ![machineorganiastie][machineorganisatie]
@@ -73,7 +73,7 @@ Gevolgen voor de IT
 * Stabiele omgeving
 * Piramide cultuur
 
-[machineorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/machineorganisatie.png
+[machineorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/machineorganisatie.PNG
 #### Informatiebehoefte
 * Informatie vastgelegd in regels en procedures
 * Ook procedures voor bouwen en bheren software
@@ -103,11 +103,12 @@ Gevolgen voor de IT
 * Ict wordt met name ingezet bij ondersteunende afdelingen
 * Proffesionals hebben vaak een laptop
 
-[proffesioneleorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/proffesioneleorganisatie.png
+[proffesioneleorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/proffesioneleorganisatie.PNG
 
 ### Innovatieve organiastie - structuur
-![innovatieveorganisatie][innovatieveorganisatie]
 "Adhocratie" 
+![innovatieveorganisatie][innovatieveorganisatie]
+
 #### Structuur
 * Jong en flexibel
 * Projectmatig werken (adhoc)
@@ -125,7 +126,7 @@ Gevolgen voor de IT:
   * Projectrapportages
   * Urenverantwoording
 
-[innovatieveorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/innovatieveorganisatie.png
+[innovatieveorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/innovatieveorganisatie.PNG
 
 ### Gedivisionaliseerde organisatie 
 ![gedivisionaliseerdeorganisatie][gedivisionaliseerdeorganisatie]
@@ -140,27 +141,27 @@ Gevolgen voor de IT:
 *Gevolgen voor de IT*:
 * Vaak gekozen voor outsourcing
 
-[gedivisionaliseerdeorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/innovatieveorganisatie.png
+[gedivisionaliseerdeorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/gedivisionaliseerdeorganisatie.png
 
 ### Kenmerken
 
 ![mintzberg][mintzbergkenmerken]
 
-[mintzbergkenmerken]: https://cascuna.github.io/iitorg-samenvatting/static/img/mintzbergkenmerken.png
+[mintzbergkenmerken]: https://cascuna.github.io/iitorg-samenvatting/static/img/mintzbergkoppeling.PNG
 
 ### Levenscyclus van organisaties
 
 ![levenscyclus][levenscyclus]
 
-[levenscyclus]: https://cascuna.github.io/iitorg-samenvatting/static/img/levenscyclusmintzberg.png
+[levenscyclus]: https://cascuna.github.io/iitorg-samenvatting/static/img/levenscyclusmintzberg.PNG
 
 ### Ontwikkelingsfases volgens Greiner
 
 ![ontwikkelingsfases][ontwikkelingsfases]
 
-[ontwikkelingsfases]: https://cascuna.github.io/iitorg-samenvatting/static/img/intwikkelingsfasesgreiner.png
+[ontwikkelingsfases]: https://cascuna.github.io/iitorg-samenvatting/static/img/ontwikkelingsfasesgreiner.PNG
 
-## Contingentietheorie
+### Contingentietheorie
 Er is niet een beste organiastie-indeling. Deze is namenlijk afhankelijk van verschillende factoren. Voor informatievoorzieningen zijn de belangerijkste:  
 * Structuur
 * Cultuur
