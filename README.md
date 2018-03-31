@@ -21,19 +21,16 @@ Deze samenvatting is gebasseerd op al het materiaal van de derde periode 2018. D
 ## Opdeling van de weken
 1. [organisatie, omgeving, leiderschap, cultuur](https://cascuna.github.io/iitorg-samenvatting/weken/week1/)
 2. [value chain, Mintzberg, contingentie, levenscyclus](https://cascuna.github.io/iitorg-samenvatting/weken/week2/)
-3. Greiner: ontwikkeling van organisaties
-4. rechtsvormen, PMC, BCG, PLC, Leeflang, Copeland
-5. promotie, plaats, distributie en kanalen
+3. [Greiner: ontwikkeling van organisaties](https://cascuna.github.io/iitorg-samenvatting/weken/week2/#ontwikkelingsfases)
+4. [rechtsvormen, PMC, BCG, PLC, Leeflang, Copeland](https://cascuna.github.io/iitorg-samenvatting/weken/week4/) 
+5. [promotie, plaats, distributie en kanalen](https://cascuna.github.io/iitorg-samenvatting/weken/week5/) 
 6. kosten, (prijs)strategieën, prijselasticiteit, winst
 7. personeel, Maslow, Herzberg, marketingmix/PLC
 
 **Gebruik geen kretologie!**
 
-Schema **Tentamen 11 april**
-18 maart; schema opstellen & verder met hoofstuk 2  
-19 t/m 25 maart 1 uur per dag aan iitorg zitten hf 2 & hf3
-26 t/m 1 april hf 4, 5 & 6 ( in het weekend hard werken)  
-1 t/m 7 april hf 7 & alles nogmaals goed doornemen
+**Tentamen is op 11 april 2018**
+
 
 
 
