@@ -1,7 +1,7 @@
 # Week 2
 
 ## Value Chain (Porter)
-![porter][porter]
+![porter][porter]  
 Instrument voor het vinden van manieren om meer klantenwaarde te creeren. Identificeert concurrentievoordelen & kanttekeningen.  
 Het model splitst een bedrijf op in negen waarde activiteiten:
 
@@ -161,8 +161,92 @@ Gevolgen voor de IT:
 
 [ontwikkelingsfases]: https://cascuna.github.io/iitorg-samenvatting/static/img/ontwikkelingsfasesgreiner.PNG
 
+Een groeiende organiastie doorloopt een zestal fases, zoals aangegeven in de tabel hierboven.  
+Elk van deze fases markeert een groeitraject & wordt afgesloten met een 'crisis'.  
+Een organiastie kan deze crisis anticiperen en zich hierop voorbereiden.  
+Wel is er voor doorgroei vereist dat een goed antwoord op de crisis wordt geboden, d.m.v een paradigmaverschuiving etc (verandering)
+
+#### Fase 1: groei door creativiteit
+> Wordt afgesloten met de **Leiderschapscrisis**
+##### Groei door:
+* Pionieren
+* Vakmanschap
+* Flexibiliteit
+* Gedrevenheid
+##### Leiding geven:
+* Individualistisch
+* Leiding gevende inspireert de groep
+* Ad hoc beslissingen
+
+##### Crisis 1: leiderschapscrisis
+Organisatie groeit door, mechanismen die vroeger werkten doen nu niet meer altijd hun dienst:
+
+* Vroeger was onze leidinggevende meer bereikbaar (hij is van ons vervreemd, wenst je geen goeiemorgen meer)
+* Vroeger was alles duidelijker (persooneel weet niet meer alles)
+* Vroeger werden we overal bij betrekken
+
+> Leiding gevende is niet veranderd, organisatie is wel gegroeid waardoor hij/zij niet meer alles kan zien/inlichten etc.
+
+
+#### Fase 2: groei door leiderschap
+> Wordt afgesloten met de **autonomiecrisis**
+
+* Formeel leiderschap (duidelijkheid)
+* Organisatiestructuur (wie is voor wat bevoegd, verantwoordelijk etc)
+* Financiele verantwoordingssystemen (budgetten en prestatienormen)
+Dit mondt uit in formelere leiderschap & communicatie wat leid tot een onpersoonlijk karakter. De eerste rechterhanden verschijnen
+
+##### Crisis 2: autonomiecrisis
+* Alles gaat via de centrale hiërarchie & dit leidt bij de rechterhanden tot frustratie: ze weten wat er gebeurt, maar mogen niets (de sandwichfunctie)
+* Tijdverlies door worsteling met hierarchische niveaus
+* Groei takenpakket van de leidinggevende & anderen (Ze doen nog steeds hetzelfde, maar de omvang hiervan is meer)
+* Autonomie belang (we hebben te weinig verantwoordelijkheid)
+
+#### Fase 3: decentralisatiefase
+> Wordt afgesloten met de **beheerscrisis**
+
+* Delegatie van verantwoordelijkheden, middenmanagement krijgt duidelijke taken & verantwoordelijkheden
+* Eigen motivatie systeem, management/bedrijfsleiding grijpt enkel in waar echt nodig
+* Van boot naar vloot. Leiderschap bepaalt eigen culturen
+* Kleinere teams, meer vrijheidsgraden per team
+
+##### Crisis 3: beheerscrisis
+* Bomen door het bos niet meer zien; teams ondernemen actie & verbeteren, maar dit is allemaal langs elkaar heen zonder rode draad
+* Management reageert door de teugels terug te grijpen; centraliseren (wat mislukt door de grootte & complexiteit van de organisatie) 
+
+
+#### Fase 4: Standaardisatiefase
+> Wordt afgesloten met de **bureaucratiecrisis**
+
+* De introductie van betere	coördinatiesystemen, men stemt het werk van afdelingen meer op elkaar af, er is een formele planning & een betere planning. Evenetuele uitbreiding van de stafdiensten. Eenheden worden gefuseerd waar nodig.
+* Men krijgt nu een complexe structuur, gevaar dat er een gebrek vaan vertrouwen onstaat tussen de verschillende diensten of vastlopen in een eindeloze reeks van regels & procedures
+
+##### Crisis 4: bureaucratiecrisis
+* Complexe en grote structuur die men tracht werkbaar te houden door veel regels en procedures, resulteert in het vast werken in deze berg bureaucratie
+* Afstand centrale stafdiensten en decentrale managers vergroot. Haperende coordinatiemechanismen leiden tot nog meer regel & controlesystemen; de bureaucratie neemt de overhand.
+
+#### Fase 5: samenwerkingsfase
+> Wordt afgesloten met de **overlegcrisis**
+* uitbouw van interpersoonlijke samenwerkings-verbanden
+* ruimte voor spantaniteit van managers, werken in teamverband, constructief hanteren van tegenstellingen, sociale controle & discipline, experimenten & vernieuwingen
+* staffuncties verminderd
+* Multidisciplinaire teams
+
+##### Crisis 5: overlegcrisis
+Discussies over politiek (politisering) & verstarring (vast komen te staan, niet kunnen bewegen)
+
+#### Fase 6: groei door ondernemen
+> Wordt afgesloten met de **identiteitscrisis**
+* back 2 basic, meer resultaat gericht werken
+* HR-taken bij het lijnmanagement
+* Medewerkers worden geacht ondernemers te worden die zelf iniatieven nemen
+
+##### crisis 6: identiteitscrisis
+* Door nadruk op resultaten voelen mensen zich een nummer
+Kan volgens Keuning & Eppink overwonnen worden door een geintegreerd mens-en omgevingsgericht beleid. De 'zachte' waarden zoals een mensgericht hr-beleid komen op de voorgrond
+
 ### Contingentietheorie
-Er is niet een beste organiastie-indeling. Deze is namenlijk afhankelijk van verschillende factoren. Voor informatievoorzieningen zijn de belangerijkste:  
+Er is niet een beste organisatie-indeling. Deze is namenlijk afhankelijk van verschillende factoren. Voor informatievoorzieningen zijn de belangerijkste:  
 * Structuur
 * Cultuur
 * Belang van IT
@@ -173,3 +257,9 @@ Er is niet een beste organiastie-indeling. Deze is namenlijk afhankelijk van ver
 en dat wordt bijv. ervaren als stimulerend of juist demotiverend.
 Dit gedrag is het gevolg van wat er in de organisatie is gebeurd.
 Het staat dus niet op zichzelf.
+
+### Het vierfasenmodel (Hardjono)
+![hardjono](/static/img/hardjono.jpg)
+Hardjono i.c.m. Quinn
+![hardjono](/static/img/hardjono-en-quinn.jpg)
+
