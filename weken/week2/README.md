@@ -259,7 +259,7 @@ Dit gedrag is het gevolg van wat er in de organisatie is gebeurd.
 Het staat dus niet op zichzelf.
 
 ### Het vierfasenmodel (Hardjono)
-![hardjono](/static/img/hardjono.jpg)
+![hardjono](https://cascuna.github.io/iitorg-samenvatting/static/img/hardjono.jpg)
 Hardjono i.c.m. Quinn
-![hardjono](/static/img/hardjono-en-quinn.jpg)
+![hardjono](https://cascuna.github.io/iitorg-samenvatting/static/img/hardjono-en-quinn.jpg)
 
