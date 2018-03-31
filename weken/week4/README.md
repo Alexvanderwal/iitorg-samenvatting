@@ -53,7 +53,7 @@ Verschillen product, dienst
 3. Het **totale** product: het uitgebreide product + emotionele, instrumentele en expressieve eigenschappen (toegevoegd door de consument)
 
 ## Productsamenstelling (copeland)
-![copeland](https://cascuna.github.io/iitorg-samenvatting/static/img/copeland.png)
+![copeland](https://cascuna.github.io/iitorg-samenvatting/static/img/copeland.jpg)
 * Convenience goods
   * Impusgoederen (snoep, gadget)
   * Stapelgoederen (margarine, DVD)
