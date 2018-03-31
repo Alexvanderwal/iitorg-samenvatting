@@ -15,10 +15,10 @@
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/ansoff-pmc.png)
 
 ## Boston Consulting Group
-![test](https://cascuna.github.io/iitorg-samenvatting/static/img/bcg.png)
+![test](https://cascuna.github.io/iitorg-samenvatting/static/img/bcg.jpg)
 
 ## Product Life Cycle (Raymond Vernon)
-![test](https://cascuna.github.io/iitorg-samenvatting/static/img/plc.png)
+![test](https://cascuna.github.io/iitorg-samenvatting/static/img/plc.jpg)
 De fases zijn:
 1. Development
 2. Introduction
@@ -27,7 +27,7 @@ De fases zijn:
 5. Decline
 
 ## Adoptiecurve van rogers
-![test](https://cascuna.github.io/iitorg-samenvatting/static/img/adoptiec.png)
+![test](https://cascuna.github.io/iitorg-samenvatting/static/img/adoptionc.jpg)
 
 
 ## Product/dienst
