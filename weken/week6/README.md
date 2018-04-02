@@ -25,7 +25,7 @@ Dat gene wat het bedrijf binnen krijgt aan omzet
 * Evenwicht (consument & bedrijf)  
   > Prijs is het overeenkomende bedrag dat een consument wil betalen en wat de aanbieder wilt ontvangen
 * Vergelijkingsmaatstaf (consument)  
-  > Meestal wordt een product met een hogere prijs als "beter" of "betrouwbaarder gezien
+  > Meestal wordt een product met een hogere prijs als "beter" of "betrouwbaarder" gezien
 
 
 ### Prijs stategieen
@@ -62,7 +62,6 @@ Vraag = Oude prijs(10.000) * (1-0.60) (40% van de oude afnamen) = 4.000 stuks
 Vraag gaat van 10.000 naar 15.000 = +50%  
 De som is dus -3(prijselasticiteit) / +50% = -17% (kosten afnamen) 
 Prijs = 5 * (1 - 0.17) (83% van de oude prijs) = 4.15 euro  
-
 
 ## Kosten
 **Vaste kosten**: Kosten die *NIET* reageren op een verandering in de hoeveelheid bedrijfactiviteiten  

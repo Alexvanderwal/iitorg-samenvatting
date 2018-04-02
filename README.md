@@ -24,7 +24,7 @@ Deze samenvatting is gebasseerd op al het materiaal van de derde periode 2018. D
 3. [Greiner: ontwikkeling van organisaties](https://cascuna.github.io/iitorg-samenvatting/weken/week2/#ontwikkelingsfases)
 4. [rechtsvormen, PMC, BCG, PLC, Leeflang, Copeland](https://cascuna.github.io/iitorg-samenvatting/weken/week4/) 
 5. [promotie, plaats, distributie en kanalen](https://cascuna.github.io/iitorg-samenvatting/weken/week5/) 
-6. kosten, (prijs)strategieën, prijselasticiteit, winst
+6. [kosten, (prijs)strategieën, prijselasticiteit, winst](https://cascuna.github.io/iitorg-samenvatting/weken/week6/)
 7. personeel, Maslow, Herzberg, marketingmix/PLC
 
 **Gebruik geen kretologie!**
