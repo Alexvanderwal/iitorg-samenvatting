@@ -4,7 +4,7 @@ Plaats
 
 ## Promotie
 * Reclame
-* Public 
+* Public relations
 * Direct marketing
 * Deelname aan beurzen
 * Persoonlijke verkoop
