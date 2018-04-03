@@ -25,21 +25,23 @@ https://www.expand.nl/nl/1102/hr-blog/mintzberg-organisatiestructuren---modellen
 Basismodel van mintzberg:
 ![mintzberg][mintzberg]  
 Dit model heeft 6 componenten
-1. Strategische top: bepaalt beleid; belang: Centraliseren
-2. Middenkader: stuurt operationele kern aan; belang: Balkaniseren
-3. Operationele kern: verzorgt productie; belang: professionaliseren
-4. Technostructuur: bepaalt standaarden, richtlijnen, processen; belang: standaardiseren
-5. Staf: ondersteunt, bv catering, juridische zaken; belang: collabreren 
-6. Ideologie:
+| **Component**     | **Doel/functie**                            | **Belang**         |
+|-------------------|---------------------------------------------|--------------------|
+| Strategische top  | bepaalt beleid                              | Centralisatie      |
+| Middenkader       | stuurt operationele kern aan                | Balkaniseren       |
+| Operationele kern | verzorgt productie                          | professionaliseren |
+| Technostructuur   | bepaalt standaarden, richtlijnen, processen | standaardiseren    |
+| Staf              | ondersteunt, bv catering, juridische zaken  | collaboreren       |
+& Ideologie
 
 Er zijn zeven configuraties van Mintzberg
-1. Ondernemersorganisatie (simpele structuur)
-2. Machineorganisatie (machinebureaucratie)
-3. Proffesionele organiastie
-4. Innovatieve organiastie (adhocratie)
-5. gediversificeerde organisatie (divisiestructuur)
-6. Zendingsorganiastie
-7. Politieke organiastie
+1. [Ondernemersorganisatie (simpele structuur)](#ondernemersorganistie)
+2. [Machineorganisatie (machinebureaucratie)](#machineorganisatie)
+3. [Proffesionele organisatie](#proffesionele-organisatie)
+4. [Innovatieve organisatie (adhocratie)](#innovatieve-organisatie)
+5. [gediversificeerde organisatie (divisiestructuur)](#gedivisionaliseerde-organisatie)
+6. Zendingsorganisatie
+7. Politieke organisatie
 
 [mintzberg]: https://cascuna.github.io/iitorg-samenvatting/static/img/mintzbergbasis.jpg
 
@@ -105,7 +107,7 @@ Gevolgen voor de IT
 
 [proffesioneleorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/proffesioneleorganisatie.PNG
 
-### Innovatieve organiastie - structuur
+### Innovatieve organisatie 
 "Adhocratie" 
 ![innovatieveorganisatie][innovatieveorganisatie]
 

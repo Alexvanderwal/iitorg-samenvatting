@@ -1,4 +1,27 @@
 # Week 1
+- [Week 1](#week-1)
+    - [Organisatie](#organisatie)
+        - [Wat is een organisatie?](#wat-is-een-organisatie)
+        - [Missie](#missie)
+            - [Voorbeelden missie van organisaties](#voorbeelden-missie-van-organisaties)
+        - [Visie](#visie)
+    - [Omgeving](#omgeving)
+        - [De omgeving van een organisatie](#de-omgeving-van-een-organisatie)
+        - [Mensen: de organisatie als sociaal systeem](#mensen-de-organisatie-als-sociaal-systeem)
+        - [Lijn-staforganisatie](#lijn-staforganisatie)
+        - [Projectorganisatie](#projectorganisatie)
+    - [Leiderschap](#leiderschap)
+        - [Macht](#macht)
+        - [Politiek](#politiek)
+        - [Redenen van hierarchie en coordinatie](#redenen-van-hierarchie-en-coordinatie)
+        - [Cirkel van succes](#cirkel-van-succes)
+        - [Cirkel van falen](#cirkel-van-falen)
+        - [Leiderschapsstijlen van Quinn](#leiderschapsstijlen-van-quinn)
+        - [Situationeel leiderschap (Hersey & Blanchard)](#situationeel-leiderschap-hersey-blanchard)
+    - [Cultuur](#cultuur)
+        - [Culturele typologie (Hofstede)](#culturele-typologie-hofstede)
+    - [Bronnen](#bronnen)
+
 
 ## Organisatie
 ### Wat is een organisatie?
@@ -48,14 +71,14 @@ etc..
 ### De omgeving van een organisatie
 ![niet beschikbaar][omgeving_van_organisatie]
 
-[omgeving_van_organisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organiastie"
+[omgeving_van_organisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organisatie"
 
 
 ### Mensen: de organisatie als sociaal systeem
 In een organisatie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
 Organisatiestructuren kunnen we opdelen in de volgende structuren
 * [Lijn-staf-organisatie](#lijn-staforganisatie)
-* [Projectorganiastie](#projectorganisatie) / matrixorganisatie
+* [Projectorganisatie](#projectorganisatie) / matrixorganisatie
 * Functionele organisatie
 * Marktorganisatie
 * Productorganisatie
@@ -76,9 +99,9 @@ Ook kan je de organisatie indelen op wat je focus is volgens de volgende focuspu
 ![niet beschikbaar][lijnstaforganisatie]
 Een lijn organisatie is een organisatievorm waarbij de werknemer (ondergeschikte) direct of indirect in verband staat met de leidinggevende en die weer met zijn of haar bovengeschikte (directie etc)
 Door de toevoeging van een ondersteunende dienst of afdeling die alleen advies bevoegheden heeft onstaat er een lijn-staf organisatie.
-*Kenmerkend* is dat deze afdeling vaak specialisten heeft, maar welke alleen advies mogelijkheden hebben en anderen niet opleggen. [1]
+*Kenmerkend* is dat deze afdeling vaak specialisten heeft, maar welke alleen advies mogelijkheden hebben en anderen niet opleggen. [1]   
 
-[lijnstaforganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/lijn-staforganisatie.jpg "Een lijn-staf organiastie"
+[lijnstaforganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/lijn-staforganisatie.jpg "Een lijn-staf organisatie"
 
 
 ### Projectorganisatie
@@ -90,13 +113,13 @@ In een grotere organisatie kan het zo zijn dat er specialisten van verschillende
 Kenmerken:
 * Aan het hoofd staat er een projectleider
 * De leden hebben elk een specifieke taak
-* 2 bazen, de projectleider & hun organiastie leider
+* 2 bazen, de projectleider & hun organisatie leider
 * De projectleider is verantwoordelijk en heeft operationele bevoegdheden
 * 1 of meer functionele chefs
-* Functionele chef bepaald hoe iemand iets moet doen  G
+* Functionele chef bepaald hoe iemand iets moet doen 
 [2]
 
-[projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Projectorganistatie.png "Een lijn-staf organiastie"
+[projectorganisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Projectorganistatie.png "Een lijn-staf organisatie"
 
 ## Leiderschap
 ### Macht
@@ -155,7 +178,7 @@ De cirkel van falen in een organisatie is als volgt. Als er **1. niet of nauweli
 
 ### Situationeel leiderschap (Hersey & Blanchard)
 
-![Doet het niet][hersey1]
+![Doet het niet](https://cascuna.github.io/iitorg-samenvatting/static/img/hersey1.jpg)
 De term situationeel leiderschap houdt in dat de leider in elke situatie zijn leiderschapsstijl aanpast aan de benodigde stijl van leidinggeven.  
 Om dit te kunnen realiseren is het een vereiste dat de leider in staat is zijn/haar gedrag en dat van de medewerkers kan begrijpen in relatie met de situatie.
 
@@ -167,26 +190,16 @@ Valen onder het sturende gedrag. De medewerker legt concreet uit hoe en wat moet
 * Delegerende stijl
 Bij deze stijlen wordt er uit gegaan van *vakvolwassenheid*, de leider stuurt slechts resultaat gericht en faciliteert wat er nodig is het doel te bereiken. [6]
 
-![Doet het niet][hersey2]
+![Doet het niet](https://cascuna.github.io/iitorg-samenvatting/static/img/hersey2.jpg)
 Als we dit model bekijken kunnen we zien dat de verschillende stijlen meestal eenopvolgend zijn. Deze natuurlijke overgang van stijlen heeft ook te maken met het niveau van de werknemers.
 
 Zo is het bijvoorbeeld nodig om werknemers met lagere competenties meer te sturen etc.
-![Doet het niet][hersey3]
+![Doet het niet](https://cascuna.github.io/iitorg-samenvatting/static/img/hersey3.jpg)
 * O1. **De enthousiaste beginner** - De medewerker is bereid om de taak uit te voeren, hij/zij is wel gemotiveerd, maar mist de vereiste bekwaamheid (een nieuwe medewerker met nieuwe taken).
 * O2. **De ontgoochelde leerling** - De medewerker heeft nu enige bekwaamheid opgebouwd, maar is weinig gemotiveerd en/of enigszins onzeker de taak uit te voeren (een nieuwe medewerker die na een voortvarende start de eerste negatieve ervaringen opdoet bij een zelfstandige taakuitvoering, er komt meer op hem af dan verwacht).
 * O3. **De capabele maar voorzichtige presteerder** -  De medewerker beschikt nu over voldoende kennis en kunde (bekwaamheid), maar aarzelt soms bij onverwachte problemen in de taakuitvoering of bij gebrek aan klankbord van zijn leidinggevende; dat wil zeggen er schort zo nu en dan iets aan de bereidheid.
 * O4. **De zelfsturende professional** - - De medewerker is bekwaam en bereid de betrokken taak uit te voeren. 
 
-
-
-[hersey1]:
-https://cascuna.github.io/iitorg-samenvatting/static/img/hersey1.jpg
-
-[hersey2]:
-https://cascuna.github.io/iitorg-samenvatting/static/img/hersey2.jpg
-
-[hersey3]:
-https://cascuna.github.io/iitorg-samenvatting/static/img/hersey3.jpg
 
 ## Cultuur
 > Patroon van waarden, doeleiden, normen, verwachtingen die voor het functioneren van de (ambtelijke) organisatie van belang zijn.
@@ -198,10 +211,8 @@ Integriteit • Klant centraal • Verantwoordelijkheid en betrokkenheid • Tea
 ### Culturele typologie (Hofstede)
 Hofstede heeft de volgende vijf dimensies bedacht:
 
-![hofstede][hofstede]
+![hofstede](https://cascuna.github.io/iitorg-samenvatting/static/img/hofstede.jpg)
 
-[hofstede]:
-https://cascuna.github.io/iitorg-samenvatting/static/img/hofstede.jpg
 
 * Machtsafstand; ouder & kind, baas & werknemer .
 * Indivualisme vs. collectivisme; Geeft de maat aan waarin individuen geintregeerd zijn in groepen
