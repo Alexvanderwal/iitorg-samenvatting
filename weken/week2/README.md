@@ -24,14 +24,16 @@ Het model splitst een bedrijf op in negen waarde activiteiten:
 https://www.expand.nl/nl/1102/hr-blog/mintzberg-organisatiestructuren---modellen  
 Basismodel van mintzberg:
 ![mintzberg][mintzberg]  
-Dit model heeft 6 componenten
-| **Component**     | **Doel/functie**                            | **Belang**         |
+Dit model heeft 6 componenten  
+
+| **Component**     | **Doel/functie**                            | **Belang**         |
 |-------------------|---------------------------------------------|--------------------|
 | Strategische top  | bepaalt beleid                              | Centralisatie      |
 | Middenkader       | stuurt operationele kern aan                | Balkaniseren       |
 | Operationele kern | verzorgt productie                          | professionaliseren |
 | Technostructuur   | bepaalt standaarden, richtlijnen, processen | standaardiseren    |
 | Staf              | ondersteunt, bv catering, juridische zaken  | collaboreren       |
+
 & Ideologie
 
 Er zijn zeven configuraties van Mintzberg
