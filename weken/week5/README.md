@@ -60,10 +60,14 @@ Voordelen:
 * Er kunnen meer items worden behandeld
 * De klant kan vragen stellen over die kunnen worden beantwoord
 * De timing van items kan worden aangepast
+
+
 ### Nadelen
 * Lage snelheid
 * Hoge kosten per contact
-### Geschiktvoor
+
+
+### Geschikt voor
 * Kleine markt
 * Relatief grote bedragen
 * Aanpassingen aan inidivuele behoefte van de klant
