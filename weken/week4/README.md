@@ -56,7 +56,7 @@ Verschillen product, dienst
 ## Productsamenstelling (copeland)
 ![copeland](https://cascuna.github.io/iitorg-samenvatting/static/img/copeland.jpg)
 * Convenience goods
-  * Impusgoederen (snoep, gadget)
+  * Impulsgoederen (snoep, gadget)
   * Stapelgoederen (margarine, DVD)
   * Noodgoederen( gloeilamp, externe HDD)
 * Winkel goederen (Kleding, PC)
@@ -81,7 +81,7 @@ Verschillen product, dienst
 * Merktrouw (Ik heb altijd al coca cola gekocht, ik ga nu echt geen pepsi kopen)
 
 ### Fabrikantenmerken
-A-Merken; heineken, philips, Heinz
+A-Merken; heineken, philips, Heinz  
 b-Merken; Medion, Bavaria
 
 ### Distribuantenmerken
