@@ -112,23 +112,30 @@ Kan refereren naar;
 
 ## Valuehcain
 ![plaats value chain](https://cascuna.github.io/iitorg-samenvatting/static/img/plaatsvaluechain.png)
+* Twee verschillende stromingen, geld & goederen
+* Goederen beginnen bij de makers, de grondstoffen & stroomt verder uit tot het verkocht wordt bij de detailhandel.
 
 ### Intergratie
 ![intergratie](https://cascuna.github.io/iitorg-samenvatting/static/img/intergratiewaardechain.png)
+>Het uitschakelen van een consument en ze met elkaar samenvoegen
 
 ### Differentatie
 ![differentatiewaardechain](https://cascuna.github.io/iitorg-samenvatting/static/img/differentatiewaardechain.png)
+>Nieuwe markten aanmaken
 
 ### Specialisatie
 ![specialisatie](https://cascuna.github.io/iitorg-samenvatting/static/img/specialisatiewaardechain.png)
+> Meerdere producten afschaffen & focussen op een 1 tal product
 
+### Parallelisatie
 ![parallelisatiewaardechain](https://cascuna.github.io/iitorg-samenvatting/static/img/parallelisatiewaardechain.png)
-
+> Uitbreiden van de producten, nieuwe producten toevoegen
 
 ## Distributie
 >Overbrugt plaats-tijd en hoeveelheidsverschillen tussen producent en afnemer.
 
 ## Agenten
+Agenten kan je zien als een tussenpersoon. Het zorgt voor minder contacten en gezamenlijke in- of verkoopacties. Het nadeel is dat het afhankelijk is, gebrek aan controle en transparante en dat er geen contact is met de producten of klant.   
 Aantal contacten = `#P * #C`
 
 ### Voordelen
@@ -141,3 +148,4 @@ Aantal contacten = `#P * #C`
 * Geen contact met producent of klant
 
 ## Kanaalstructuren
+Beschrijving van een distrubutiekanaal aan de hand van een aantal verschillende distributanten

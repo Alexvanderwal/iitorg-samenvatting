@@ -31,6 +31,7 @@ De fases zijn:
 
 Wanneer een product in ontwikkeling is, dan is de Market Growth hoog (Stars of ?). Wanneer het product al op de markt is, dan is de Market Growth laag (Cash Cows of Dogs).
 (https://cascuna.github.io/iitorg-samenvatting/static/img/marketingmix.jpg)
+
 ## Adoptiecurve van rogers
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/adoptionc.jpg)
 
