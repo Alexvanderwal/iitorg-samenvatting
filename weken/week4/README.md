@@ -15,19 +15,30 @@
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/ansoff-pmc.png)
 
 ## Boston Consulting Group
+Op basis van de BCG-matrix kan een product of haar bedrijfseenheid zich in een van de vier volgende categorieen bevinden:  
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/bcg.jpg)
+Cash cow, star, question mark, dog.   
 
 ## Product Life Cycle (Raymond Vernon)
+De product life cycle is een begrip dat gebruikt wordt om te onderzoeken welke marketingstrategieën op een bepaald moment het best kunnen worden toegepast op een bepaald product. Er zijn 5 verschillende fasen.   
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/plc.jpg)
 De fases zijn:
-1. Development
-2. Introduction
-3. Growth
-4. Maturity
-5. Decline
+1. Development: Het product wordt ontwikkeld
+2. Introduction: Het product zal geintroduceerd worden op de markt
+3. Growth: In deze fase neemt de verkoop van het product fors toe
+4. Maturity: De concurrentie zal hevig worden
+5. Decline: Vrijwel geen verkoop meer
+
+Wanneer een product in ontwikkeling is, dan is de Market Growth hoog (Stars of ?). Wanneer het product al op de markt is, dan is de Market Growth laag (Cash Cows of Dogs).
 
 ## Adoptiecurve van rogers
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/adoptionc.jpg)
+
+1. Innovators: Dit zijn de eerste kopers
+2. Early adopters: belangerijkste groep, opinieleiders
+3. Early majority: Willen het product graag hebben maar zijn wat voorzichtiger & wachten af tot de early adopters het hebben aangeschaft
+4. Late majority: Schaffen het product alleen aan wanneer de meerderheid ze al heeft uitgeprobeerd of wanneer ze er niet omheen kunnen
+5. Laggards: Hechten veel waarde aan traditie en houden niet van verandering. Oude mensen & mensen met weinig te besteden
 
 
 ## Product/dienst
