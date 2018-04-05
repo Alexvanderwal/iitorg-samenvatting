@@ -39,6 +39,7 @@ bv: Trandpasta
 * Zelfvertrouwen (erkenning en waardering)
 
 Verschillen product, dienst
+
 | **Product**           | **Dienst**                   |
 |-----------------------|------------------------------|
 | Tastbaar              | Afnemer werkt mee            |

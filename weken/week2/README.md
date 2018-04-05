@@ -24,16 +24,14 @@ Het model splitst een bedrijf op in negen waarde activiteiten:
 https://www.expand.nl/nl/1102/hr-blog/mintzberg-organisatiestructuren---modellen  
 Basismodel van mintzberg:
 ![mintzberg][mintzberg]  
-Dit model heeft 6 componenten  
-
-| **Component**     | **Doel/functie**                            | **Belang**         |
+Dit model heeft 6 componenten
+| **Component**     | **Doel/functie**                            | **Belang**         |
 |-------------------|---------------------------------------------|--------------------|
 | Strategische top  | bepaalt beleid                              | Centralisatie      |
 | Middenkader       | stuurt operationele kern aan                | Balkaniseren       |
 | Operationele kern | verzorgt productie                          | professionaliseren |
 | Technostructuur   | bepaalt standaarden, richtlijnen, processen | standaardiseren    |
 | Staf              | ondersteunt, bv catering, juridische zaken  | collaboreren       |
-
 & Ideologie
 
 Er zijn zeven configuraties van Mintzberg
@@ -170,7 +168,7 @@ Elk van deze fases markeert een groeitraject & wordt afgesloten met een 'crisis'
 Een organiastie kan deze crisis anticiperen en zich hierop voorbereiden.  
 Wel is er voor doorgroei vereist dat een goed antwoord op de crisis wordt geboden, d.m.v een paradigmaverschuiving etc (verandering)
 
-### Fase 1: groei door creativiteit
+### Fase 1: Pioneerfase
 > Wordt afgesloten met de **Leiderschapscrisis**
 #### Groei door:
 * Pionieren
@@ -192,7 +190,7 @@ Organisatie groeit door, mechanismen die vroeger werkten doen nu niet meer altij
 > Leiding gevende is niet veranderd, organisatie is wel gegroeid waardoor hij/zij niet meer alles kan zien/inlichten etc.
 
 
-### Fase 2: groei door leiderschap
+### Fase 2: Managementfase
 > Wordt afgesloten met de **autonomiecrisis**
 
 * Formeel leiderschap (duidelijkheid)
