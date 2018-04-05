@@ -83,8 +83,8 @@ Bijvoorbeeld; 15 klanten(K), 2 bezoeken per jaar per klant(bpjk), een verkoper k
 
 ### Franke
 Formule:   
-``` #Verkopers = #Klanten * #bezoeken / jaar + (reis + wacht + gesprektijd) / # uren + dagen / jaar  ```  
-
+``` #Verkopers = #Klanten * #bezoeken per jaar * (reis + wacht + gesprektijd) / # uren * dagen per jaar jaar  ```  
+ 
 ## Beloning verkopers
 * Een vast inkomen
 * Een variabel inkomen
