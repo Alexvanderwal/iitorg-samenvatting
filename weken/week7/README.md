@@ -80,6 +80,7 @@ Dus:
 ![instroom,uitstroom](https://cascuna.github.io/iitorg-samenvatting/static/img/instroom,uitstroom.png)
 
 ### Instroom
+
 | **Horizontale instroom (Ervaren personeel)** | **Verticale instroom (Onevervaren personeel)** |
 |----------------------------------------------|------------------------------------------------|
 | Korte inwerkperiode                          | Langere inwerkperiode                          |
