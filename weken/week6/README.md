@@ -10,8 +10,9 @@
     - [Intergrale kostprijs](#intergrale-kostprijs)
     - [Winst](#winst)
     - [BTW Belasting Toegevoegde Waarde](#btw-belasting-toegevoegde-waarde)
-    - 
+
 ## Prijs
+
 ### Prijsbeleid: Wat is de prijs?
 
 Voor de klant:  
@@ -20,6 +21,7 @@ Bedrijf:
 Dat gene wat het bedrijf binnen krijgt aan omzet
 
 ### Functies van prijs
+
 * Rantsoenering (consument)  
   > De consument kan niet alles kopen en dient dus keuzes te maken
 * Evenwicht (consument & bedrijf)  
@@ -27,8 +29,8 @@ Dat gene wat het bedrijf binnen krijgt aan omzet
 * Vergelijkingsmaatstaf (consument)  
   > Meestal wordt een product met een hogere prijs als "beter" of "betrouwbaarder" gezien
 
-
 ### Prijs stategieen
+
 | **Prijs strategie**  | **Betekenis**                                                                                                                                                                                                                           |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Skim-pricing         | Geleidelijk de prijs verlagen om zo de markt af te romen. Kan alleen toegepast worden in een monopolie-positie                                                                                                                          |
@@ -44,6 +46,7 @@ Dat gene wat het bedrijf binnen krijgt aan omzet
 ![vraagcurve](https://cascuna.github.io/iitorg-samenvatting/static/img/vraagcurve.png)
 
 ### Prijselasticiteit
+
 > Betekenis: De gevoeligheid van de gevraagde hoeveelheid voor een prijsverandering. 
 
 Prijzen & hoevelheden noemen we het relevante deel van de curve.  
@@ -51,6 +54,7 @@ De prijs elasticiteit van basis goederen is veel kleiner dan luxe goederen.
 `Prijselasticiteit = verandering van de vraag in % / verandering van de prijs in % `  
 Voorbeeld casus:  
 >Bij een prijs van E 5,- per stuk worden 10.000 stuks verkocht. Na een prijsverhoging tot E 5,50 worden nog slechts 7.000 stuks afgezet
+
 1. Wat is de prijs elastisicteit?
 Vraag % is hier -30% (van 10.000 naar 7.000), prijs % is hier +10% (5,00 naar 5,50)  
 De som is dus: ` -30% / +10% = -3 prijs elasticiteit  

@@ -117,7 +117,7 @@ Gevolgen voor de IT
 #### Structuur
 * Jong en flexibel
 * Projectmatig werken (adhoc)
-* Weinigstandaarisatie en procedures
+* Weinig standaarisatie en procedures
 * Onduidelijke taakverdeling, veel afstemming nodig
 * Veel onzekerheid en politiek
 * Lijkt op een dorpsmarkt
