@@ -19,6 +19,16 @@ Op basis van de BCG-matrix kan een product of haar bedrijfseenheid zich in een v
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/bcg.jpg)
 Cash cow, star, question mark, dog.   
 
+## verband bcg & adoptie curve
+de *innovators* van de adoptiecurve spelen een belangerijke rol tijdens de question mark van de bcg matrix. De early adoopters en de early majority zzijn bepalend voor de star in de bcg matrix. zij worden gevolgd door de late majority tijdens de cash cow fase, en uiteindelijk de laggards in de dog fase. 
+
+## verband adoptiecurive en PLC
+Tijdens de development fase van de plc, zijn uitsluitend de innovators in het product of de dienst geintresseerd. Tijdens de introdcution fase komen daar de early adopters bij, tijdens de introductie en growth komen de early majority en daarna het eerste deel van de late majority. Tijdens maturity komt eerst het tweede deel van de late majority er nog bij, tijdens de decline gevolgd door het laatste van de late majority en de laggards
+
+## Verband PLC en BCG
+een product of dienst in de development fase van de PLC zal zich in de bcg matrix als question mark verhouden. Wanneer de introductie eenmaal heeft plaatsgevonden kan het product of de dienst zich als een waardevolle star beschrijven. Dat blijft zo gdrurende de growth fase van de PLC. Uiteindelijk bereikt het product of de dienst maturuty en is het op 't hoogtepunt beland. Vanuit de BCG-matrix spreken we op dat moment van een cash cow: het product of de dienst akn worden gemolken en er zijn nauwelijks investeringen bendoigd bij een gemaimeerd marktaandeel
+
+
 ## Product Life Cycle (Raymond Vernon)
 De product life cycle is een begrip dat gebruikt wordt om te onderzoeken welke marketingstrategieën op een bepaald moment het best kunnen worden toegepast op een bepaald product. Er zijn 5 verschillende fasen.   
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/plc.jpg)
