@@ -29,6 +29,7 @@ Tijdens de development fase van de plc, zijn uitsluitend de innovators in het pr
 een product of dienst in de development fase van de PLC zal zich in de bcg matrix als question mark verhouden. Wanneer de introductie eenmaal heeft plaatsgevonden kan het product of de dienst zich als een waardevolle star beschrijven. Dat blijft zo gdrurende de growth fase van de PLC. Uiteindelijk bereikt het product of de dienst maturuty en is het op 't hoogtepunt beland. Vanuit de BCG-matrix spreken we op dat moment van een cash cow: het product of de dienst akn worden gemolken en er zijn nauwelijks investeringen bendoigd bij een gemaimeerd marktaandeel
 
 
+
 ## Product Life Cycle (Raymond Vernon)
 De product life cycle is een begrip dat gebruikt wordt om te onderzoeken welke marketingstrategieën op een bepaald moment het best kunnen worden toegepast op een bepaald product. Er zijn 5 verschillende fasen.   
 ![test](https://cascuna.github.io/iitorg-samenvatting/static/img/plc.jpg)

@@ -121,11 +121,12 @@ Kan refereren naar;
 
 ### Intergratie
 ![intergratie](https://cascuna.github.io/iitorg-samenvatting/static/img/intergratiewaardechain.png)
->Het uitschakelen van een consument en ze met elkaar samenvoegen
+> Er wordt een schakel uit de waardeketen genomen doordat 1 van de partijen deze schakel op zich neemt. Hierdoor onstaat voor de desbetreffende partij ruimte & extra inkomsten door de extra schakel. In ruil hiervoor heeft de partij meer werkzaamheden en verantwoordelijkheden. Zo wordt het assortiment groter. Een uitschakeling kan zowel voorwaarts of achterwaarts plaatsvinden. Voorwaarts is hier met de goederenstroom mee, achterwaarts is met de geldstroom mee.
+
 
 ### Differentatie
 ![differentatiewaardechain](https://cascuna.github.io/iitorg-samenvatting/static/img/differentatiewaardechain.png)
->Nieuwe markten aanmaken
+>Er onstaan nieuwe schakels in de waardeketen welke zich specialiseren, waardoor nieuwe markte aangeraakt worden. Het assortiment van de partij die de schakels afstoot neemt af.
 
 ### Specialisatie
 ![specialisatie](https://cascuna.github.io/iitorg-samenvatting/static/img/specialisatiewaardechain.png)
@@ -136,7 +137,13 @@ Kan refereren naar;
 > Uitbreiden van de producten, nieuwe producten toevoegen
 
 ## Distributie
->Overbrugt plaats-tijd en hoeveelheidsverschillen tussen producent en afnemer.
+>Overbrugt plaats-tijd en hoeveelheidsverschillen tussen producent en afnemer.  
+
+nadelen:
+* opgeslagen goederen kunnen bederven 
+* opslag kost geld • opslag kost ruimte 
+* bij opslag treden verliezen op (beschadigingen etc.) 
+* de aandeelhouders hebben een hekel aan voorraden ("liggend geld") 
 
 ## Agenten
 Agenten kan je zien als een tussenpersoon. Het zorgt voor minder contacten en gezamenlijke in- of verkoopacties. Het nadeel is dat het afhankelijk is, gebrek aan controle en transparante en dat er geen contact is met de producten of klant.   
@@ -153,3 +160,5 @@ Aantal contacten = `#P * #C`
 
 ## Kanaalstructuren
 Beschrijving van een distrubutiekanaal aan de hand van een aantal verschillende distributanten
+
+Narrowcasting: informatie overbrengen via een scherm.

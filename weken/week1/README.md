@@ -1,13 +1,13 @@
 # Week 1
 - [Week 1](#week-1)
     - [Organisatie](#organisatie)
-        - [Wat is een organisatie?](#wat-is-een-organisatie)
+        - [Wat is een organisatie](#wat-is-een-organisatie)
         - [Missie](#missie)
             - [Voorbeelden missie van organisaties](#voorbeelden-missie-van-organisaties)
         - [Visie](#visie)
     - [Omgeving](#omgeving)
         - [De omgeving van een organisatie](#de-omgeving-van-een-organisatie)
-        - [Mensen: de organisatie als sociaal systeem](#mensen-de-organisatie-als-sociaal-systeem)
+        - [Mensen: de organisatie als sociaal systeem](#mensen--de-organisatie-als-sociaal-systeem)
         - [Lijn-staforganisatie](#lijn-staforganisatie)
         - [Projectorganisatie](#projectorganisatie)
     - [Leiderschap](#leiderschap)
@@ -22,26 +22,31 @@
         - [Culturele typologie (Hofstede)](#culturele-typologie-hofstede)
     - [Bronnen](#bronnen)
 
-
 ## Organisatie
-### Wat is een organisatie?
-> Een herkenbare eenheid waarin mensen op **gecoördineerde wijze** & met behulp van **technische** & **financiële middelen** activiteiten uitvoeren om **gemeenschappelijke doelen** te realiseren
+
+### Wat is een organisatie
+
+> Een herkenbare eenheid waarin mensen op **gecoördineerde wijze** & met behulp van **technische** & **financiële middelen** activiteiten uitvoeren om **gemeenschappelijke doelen** te realiseren  
+> Een **samenwerkingsverband** tussen mensen met een **gemeenschappelijk doel** welke hierbij middelen inzetten.  
 
 Belangerijkste kenmerken
-* mensen
-* gecoördineerd
-* technische en financiele middelen
-* activiteiten
-* (gemeenschappelijke) doelen
+
+- mensen
+- gecoördineerd
+- technische en financiele middelen
+- activiteiten
+- (gemeenschappelijke) doelen
 
 ### Missie  
 > Een Missie is een beschrijving van product-marktcombinatie(**PMC**) en de manier waarop men hiermee een structureel concurrentievoordeel(**CV**) kan realiseren  
 
 Hieruit kan afleiden dat `Missie = PMC + CV`
-* Een missie behoort tot alle soorten organisaties, zowel profit als non-profit  
-* Een missie beschrijft een of meer maatschappelijke behoeften waar de organisatie in voorziet
+
+- Een missie behoort tot alle soorten organisaties, zowel profit als non-profit  
+- Een missie beschrijft een of meer maatschappelijke behoeften waar de organisatie in voorziet
 
 Een missie geeft antwoord op de volgende vragen:  
+
 - Wie zijn we?
 - Wat doen we?
 - Wie zijn onze klanten?
@@ -52,30 +57,57 @@ Een missie komt vaak in marketingprojecten voor
 Het doel van een missie is het bevorderen van de choesie en coherentie van de organisatie. Een missie komt meestal samen voor met een **visie**.
 
 #### Voorbeelden missie van organisaties
+
 > Delta Lloyd Groep - is een toegankelijke financiële dienstverlener die vanuit integer ondernemerschap bouwt aan een zekere toekomst voor en met al haar stakeholders. 
 
 > Rode Kruis - onze missie is het voorkomen en verzachten van menselijk lijden waar dan ook, het beschermen van levens en gezondheid en het waarborgen van respect voor de mens. Daartoe mobiliseren we de kracht van menslievendheid en solidariteit: we creëren een ruimte waarin mensen in nood, vrijwillige hulpverleners en donoren samenkomen en invulling geven aan ons aller verantwoordelijkheid om anderen te helpen. 
 
 ### Visie
+
 `visie = Missie + principes`  
 Principes hebben betrekking op de normen en waarden van de organisatie. Bijvoorbeeld
 
-* Kwaliteit komt eerst;
-* De klant komt eerst;
-* Wij zijn betrouwbaar en integer;
- 
+- Kwaliteit komt eerst;
+- De klant komt eerst;
+- Wij zijn betrouwbaar en integer;
+
 etc..
 
 ## Omgeving
 
 ### De omgeving van een organisatie
+
 ![niet beschikbaar][omgeving_van_organisatie]
+
+**De zeven omgevingsfactoren:**  
+
+- Demografische factoren
+- Economische factoren
+- Sociale ( maatschappelijke) factoren
+- Technologische factoren
+- Ecologische (milieu) factoren
+- Marktfactoren. (deze wordt ook vaak onder economische factoren gezet, zie onderstaand plaatje)
+- Politieke factoren
+
+**De negen omringende partijen:**  
+
+- Afnemers
+- Leveranciers
+- Concurrentie
+- Vermogenverschaffers
+- Werknemers
+- Belangenbehartigingsorganisaties
+- Overheidsinstellingen
+- Media
+- Afnemers
+Uit deze omgevingsinvloeden vloeien omstandigheden voort, waarmee organisaties in sterke mate rekeing mee moeten houden.
+
 
 [omgeving_van_organisatie]: https://cascuna.github.io/iitorg-samenvatting/static/img/Omgeving%20van%20organiastie.png "Omgeving van een organisatie"
 
 
 ### Mensen: de organisatie als sociaal systeem
-In een organisatie is vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
+In een organisatie is er vaak verdeling van het werk tussen de vakspecialisten en managers. Deze verdeling is meestal in de vorm van een **hierarchie** oftewel een **formele organisatiestructuur**.
 Organisatiestructuren kunnen we opdelen in de volgende structuren
 * [Lijn-staf-organisatie](#lijn-staforganisatie)
 * [Projectorganisatie](#projectorganisatie) / matrixorganisatie
@@ -181,6 +213,8 @@ De cirkel van falen in een organisatie is als volgt. Als er **1. niet of nauweli
 ![Doet het niet](https://cascuna.github.io/iitorg-samenvatting/static/img/hersey1.jpg)
 De term situationeel leiderschap houdt in dat de leider in elke situatie zijn leiderschapsstijl aanpast aan de benodigde stijl van leidinggeven.  
 Om dit te kunnen realiseren is het een vereiste dat de leider in staat is zijn/haar gedrag en dat van de medewerkers kan begrijpen in relatie met de situatie.
+  
+Robert Quinn vindt dat leiderschap in een organisatie moet passen bij de mate waarin de organisatie met zichzelf bezig is, of zich meer naarbuiten richt: oriëntatie. Daarnaast vindt hij dat de tweede factor ligt in de mate waarin een organisatie zich richt op het behouden van het huidige en het bekende of juist in staat is om te gaan met veranderingen en het onbekende: flexibiliteit. 
 
 In dit model zijn er twee dimensies, ondersteunend gedrag & sturend gedrag.
 * Directieve stijl
@@ -213,15 +247,16 @@ Hofstede heeft de volgende vijf dimensies bedacht:
 
 ![hofstede](https://cascuna.github.io/iitorg-samenvatting/static/img/hofstede.jpg)
 
-
 * Machtsafstand; ouder & kind, baas & werknemer .
-* Indivualisme vs. collectivisme; Geeft de maat aan waarin individuen geintregeerd zijn in groepen
-* Masculiniteit vs. feminiteit; Verdeling rollen tussen man en vrouw in de maatschappij
-* Onzekersheidsvermijding; laat de angst voor de toekomst binnen een cultuur zien; hoe hoger hoe meer belang er is aan onzekerheidsvermijding
-* Lange termijn vs korte termijn orientatie (nieuw); gericht op de toekomst of op het heden
+* Indivualisme vs. collectivisme; Geeft de maat aan waarin individuen geintregeerd zijn in groepen. organisaties waarbij ieder individueel werkt en geen of nauwelijks samenhang met de anderen ervaart, ieder hakt voor zichzelf knopen door (individualisme) of organisaties waarbij men in groepen opereert (of als gehele afdeling, of als gehele organisatie) en alleen gezamenlijk knopen doorhakt (collectivisme)
+* Masculiniteit vs. feminiteit; Verdeling rollen tussen man en vrouw in de maatschappij.  organisaties waarbij de macht van de sterkste geldt en men elkaar 'stoer' en 'mannelijk' behandelt, wil wínnen (masculien) of organisaties waarbij men gezamenlijk de dingen onderneemt, elkaar de helpen hand toesteekt en uit is op eenheid (feminiteit)
+* Onzekersheidsvermijding; laat de angst voor de toekomst binnen een cultuur zien; hoe hoger hoe meer belang er is aan onzekerheidsvermijding. onzekerheidsvermijding: organisaties die zekerheden heel belangrijk vinden en niet goed om kunnen gaan met het onverwachte (onzekerheidsvermijding) versus organisaties die veranderingen en het onverwachte volkomen normaal vinden en die daarmee heel goed overweg kunnen (onzekerheidaccepterend).
+* Lange termijn vs korte termijn orientatie (nieuw); gericht op de toekomst of op het heden. organisaties die het focus leggen op termijnen van vele jaren of decennia, zoals vaker in bijv. Japan en China aangetroffen wordt (lange termijn) versus organisaties die slechts kort vooruitkijken, bijv. enkele aanden, zoals je dat vaker in bijv. Europa en Noordamerika aantref
+
 
 
 ## Bronnen
+
 1 http://www.economiehulp.nl/lijn-staforganisatie  
 2 https://zakelijk.infonu.nl/management/85974-projectorganisatie-matrixorganisatie-en-ententestructuur.html  
 3 https://managementmodellensite.nl/managementrollen-quinn/#.Wpr_gOjOWHs   
